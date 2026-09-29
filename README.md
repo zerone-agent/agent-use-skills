@@ -88,6 +88,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[skill-market](awesome-skills/introductions/en/skill-market.md)** | Automated discovery and installation of specialized agent skills from the Zerone Skill Market. | ✅ Verified |
+| **[zhub-management](awesome-skills/introductions/en/zhub-management.md)** | Manage Zerone Hub resources (Agent, Skill, Tool, MCP, Provider+Model) via the `zhub` CLI, with full CRUD and deployment lifecycle. | ✅ Verified |
 | **[openclaw-config-guard](awesome-skills/introductions/en/openclaw-config-guard.md)** | A safety-first maintenance skill for auditing and repairing OpenClaw configuration with deterministic validation, backups, rollback, and change reporting. | ✅ Verified |
 
 ### Productivity Tools
