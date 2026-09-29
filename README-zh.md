@@ -35,6 +35,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 - **OpenCode**
 - **OpenClaw**
 - **Qoder**
+- **Zerone**
 
 每个框架都有其独立的技能加载机制。请参考各技能目录下的安装指南获取具体框架的操作说明。
 

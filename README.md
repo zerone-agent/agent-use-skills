@@ -35,6 +35,7 @@ AgentUse Skills supports the following AI Agent frameworks:
 - **OpenCode**
 - **OpenClaw**
 - **Qoder**
+- **Zerone**
 
 Each framework provides its own skill loading mechanism. Please refer to the installation guides in each skill directory for framework-specific instructions.
 
