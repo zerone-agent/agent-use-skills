@@ -71,7 +71,6 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
-| **[imagen](awesome-skills/introductions/en/imagen.md)** | Generate images using Google Gemini's image generation capabilities. Pure Python implementation with zero dependencies. | 🔍 Pending Verification |
 | **[baoyu-skills](awesome-skills/introductions/en/baoyu-skills.md)** | A practical skill collection for AI coding agents covering content creation, image generation, social media publishing, and document processing. | ✅ Verified |
 | **[slidev](awesome-skills/introductions/en/slidev.md)** | A presentation slides maker tailored for developers, built on Vite, Vue, and Markdown. | ✅ Verified |
 
@@ -98,7 +97,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| **[obsidian](awesome-skills/introductions/en/obsidian.md)** | Agent Skills for Obsidian knowledge management tool, compatible with Claude Code, Codex CLI, and other Skills-compatible AI coding agents. | ✅ Verified |
+| **[obsidian-cli](awesome-skills/introductions/en/obsidian-cli.md)** | The official Obsidian CLI (v1.12+) that enables AI Agents to control the Obsidian desktop app directly from the terminal, providing full vault manipulation capabilities. | ✅ Verified |
 | **[skill-creator](awesome-skills/introductions/en/skill-creator.md)** | Anthropic's official skill creation and iterative optimization tool for creating, testing, evaluating, and improving AI programming skills. | ✅ Verified |
 | **[anti-distill](awesome-skills/introductions/en/anti-distill.md)** | A tool to clean your forced-to-write employee AI Skills, keeping core knowledge assets strictly to yourself. | 🔍 Pending Verification |
 | **[colleague-skill](awesome-skills/introductions/en/colleague-skill.md)** | A tool that distills a colleague into an AI Skill by automatically collecting Feishu/DingTalk data. | 🔍 Pending Verification |
