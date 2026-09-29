@@ -35,6 +35,7 @@ AgentUse Skills supports the following AI Agent frameworks:
 - **OpenCode**
 - **OpenClaw**
 - **Qoder**
+- **Zerone**
 
 Each framework provides its own skill loading mechanism. Please refer to the installation guides in each skill directory for framework-specific instructions.
 
@@ -46,7 +47,8 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | :--- | :--- | :--- |
 | **[skill-market](agent-ready/en/skill-market.md)** | Automated discovery and installation of specialized agent skills from the Zerone Skill Market. | 👑 Certified |
 | **[zhub-management](agent-ready/en/zhub-management.md)** | Manage Zerone Hub resources (Agent, Skill, Tool, MCP, Provider+Model) via the `zhub` CLI, with full CRUD and deployment lifecycle. | 👑 Certified |
-| **[Obsidian](agent-ready/en/obsidian.md)** | Knowledge management app with an official CLI (v1.12+) supporting semantic search, graph queries, and vault management — up to 70,000x fewer tokens than traditional MCP approaches. | 👑 Certified |
+| **[Obsidian](agent-ready/en/obsidian-cli.md)** | Knowledge management app with an official CLI (v1.12+) supporting semantic search, graph queries, and vault management — up to 70,000x fewer tokens than traditional MCP approaches. | 👑 Certified |
+| **[OfficeCLI](agent-ready/en/officecli.md)** | The world's first Office suite purpose-built for AI agents — create, read, edit, and render Word, Excel, and PowerPoint documents with a single command. | 👑 Certified |
 | **[OpenCLI](agent-ready/en/opencli.md)** | CLI tool library that turns websites and apps into deterministic interfaces with 87+ adapters, direct browser control, and zero LLM runtime cost. | 👑 Certified |
 
 ## 🎯 SKILL List
@@ -69,7 +71,6 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
-| **[imagen](awesome-skills/introductions/en/imagen.md)** | Generate images using Google Gemini's image generation capabilities. Pure Python implementation with zero dependencies. | 🔍 Pending Verification |
 | **[baoyu-skills](awesome-skills/introductions/en/baoyu-skills.md)** | A practical skill collection for AI coding agents covering content creation, image generation, social media publishing, and document processing. | ✅ Verified |
 | **[slidev](awesome-skills/introductions/en/slidev.md)** | A presentation slides maker tailored for developers, built on Vite, Vue, and Markdown. | ✅ Verified |
 
@@ -96,7 +97,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 
 | Skill Name | Description | Status |
 | :--- | :--- | :--- |
-| **[obsidian](awesome-skills/introductions/en/obsidian.md)** | Agent Skills for Obsidian knowledge management tool, compatible with Claude Code, Codex CLI, and other Skills-compatible AI coding agents. | ✅ Verified |
+| **[obsidian-cli](awesome-skills/introductions/en/obsidian-cli.md)** | The official Obsidian CLI (v1.12+) that enables AI Agents to control the Obsidian desktop app directly from the terminal, providing full vault manipulation capabilities. | ✅ Verified |
 | **[skill-creator](awesome-skills/introductions/en/skill-creator.md)** | Anthropic's official skill creation and iterative optimization tool for creating, testing, evaluating, and improving AI programming skills. | ✅ Verified |
 | **[anti-distill](awesome-skills/introductions/en/anti-distill.md)** | A tool to clean your forced-to-write employee AI Skills, keeping core knowledge assets strictly to yourself. | 🔍 Pending Verification |
 | **[colleague-skill](awesome-skills/introductions/en/colleague-skill.md)** | A tool that distills a colleague into an AI Skill by automatically collecting Feishu/DingTalk data. | 🔍 Pending Verification |

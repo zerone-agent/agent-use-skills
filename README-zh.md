@@ -35,6 +35,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 - **OpenCode**
 - **OpenClaw**
 - **Qoder**
+- **Zerone**
 
 每个框架都有其独立的技能加载机制。请参考各技能目录下的安装指南获取具体框架的操作说明。
 
@@ -46,7 +47,8 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | :--- | :--- | :--- |
 | **[skill-market](agent-ready/zh/skill-market.md)** | 从 Zerone Skill Market 自动发现并安装专业 Agent 技能。 | 👑 已认证 |
 | **[zhub-management](agent-ready/zh/zhub-management.md)** | 通过 `zhub` CLI 管理 Zerone Hub 资源（Agent、Skill、Tool、MCP、Provider+Model），覆盖完整增删改查与部署生命周期。 | 👑 已认证 |
-| **[Obsidian](agent-ready/zh/obsidian.md)** | 知识库管理软件，Obsidian 1.12 引入官方 CLI，支持语义搜索、图谱查询与日志管理，Token 消耗减少高达 70,000 倍。 | 👑 已认证 |
+| **[Obsidian](agent-ready/zh/obsidian-cli.md)** | 知识库管理软件，Obsidian 1.12 引入官方 CLI，支持语义搜索、图谱查询与日志管理，Token 消耗减少高达 70,000 倍。 | 👑 已认证 |
+| **[OfficeCLI](agent-ready/zh/officecli.md)** | 全球首个专为 AI 智能体设计的 Office 套件，一条命令即可创建、读取、编辑和渲染 Word、Excel、PowerPoint 文档。 | 👑 已认证 |
 | **[OpenCLI](agent-ready/zh/opencli.md)** | CLI 工具库，将网站和应用转化为确定性接口，包含 87+ 适配器、浏览器直控能力，运行时零 LLM 成本。 | 👑 已认证 |
 
 ## 🎯 SKILL 列表
@@ -69,7 +71,6 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/zh/ui-ux-pro-max-skill.md)** | AI 驱动的设计智能体，提供 67 种 UI 风格、96 种配色方案和 100 条行业特定推理规则。 | ✅ 已验证 |
-| **[imagen](awesome-skills/introductions/zh/imagen.md)** | 利用 Google Gemini 的图像生成能力，在 AI 编码会话期间直接生成图像。纯 Python 实现，零依赖。 | 🔍 待验证 |
 | **[baoyu-skills](awesome-skills/introductions/zh/baoyu-skills.md)** | 宝玉分享的效率提升技能集，涵盖内容创作、图像生成、社交媒体发布和文档处理等多个维度。 | ✅ 已验证 |
 | **[slidev](awesome-skills/introductions/zh/slidev.md)** | 基于 Vite、Vue 和 Markdown 构建的面向开发者的幻灯片制作和演示工具。 | ✅ 已验证 |
 
@@ -96,7 +97,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 
 | 技能名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
-| **[obsidian](awesome-skills/introductions/zh/obsidian.md)** | 专为 Obsidian 知识管理工具设计的 Agent Skills，兼容 Claude Code、Codex CLI 等 AI 编码助手。 | ✅ 已验证 |
+| **[obsidian-cli](awesome-skills/introductions/zh/obsidian-cli.md)** | Obsidian 官方命令行工具（v1.12+），让 AI Agent 直接通过终端控制 Obsidian 桌面应用，实现对笔记库的全面操作。 | ✅ 已验证 |
 | **[skill-creator](awesome-skills/introductions/zh/skill-creator.md)** | Anthropic 官方技能创建与迭代优化工具，实现从构思到部署的完整工作流。 | ✅ 已验证 |
 | **[anti-distill](awesome-skills/introductions/zh/anti-distill.md)** | 专为保护员工核心知识资产设计的工具，"清洗"被迫写出的工作 Skill，核心经验留给自己。 | 🔍 待验证 |
 | **[colleague-skill](awesome-skills/introductions/zh/colleague-skill.md)** | 将同事"蒸馏"为 AI Skill，通过自动采集飞书/钉钉数据生成数字化同事。 | 🔍 待验证 |
