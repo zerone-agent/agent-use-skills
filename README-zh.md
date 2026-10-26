@@ -51,6 +51,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[Obsidian](agent-ready/zh/obsidian-cli.md)** | 知识库管理软件，Obsidian 1.12 引入官方 CLI，支持语义搜索、图谱查询与日志管理，Token 消耗减少高达 70,000 倍。 | 👑 已认证 |
 | **[OfficeCLI](agent-ready/zh/officecli.md)** | 全球首个专为 AI 智能体设计的 Office 套件，一条命令即可创建、读取、编辑和渲染 Word、Excel、PowerPoint 文档。 | 👑 已认证 |
 | **[OpenCLI](agent-ready/zh/opencli.md)** | CLI 工具库，将网站和应用转化为确定性接口，包含 87+ 适配器、浏览器直控能力，运行时零 LLM 成本。 | 👑 已认证 |
+| **[ego-browser](agent-ready/zh/ego-browser.md)** | ego(lite)（为人与 AI Agent 共同设计的 Chromium 浏览器）的浏览器自动化技能——Agent 复用已登录会话，在隔离 Space 中执行网页任务。 | 👑 已认证 |
 
 ## 🎯 SKILL 列表
 
@@ -94,6 +95,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[zhub-management](awesome-skills/introductions/zh/zhub-management.md)** | 通过 `zhub` CLI 管理 Zerone Hub 资源（Agent、Skill、Tool、MCP、Provider+Model），覆盖完整增删改查与部署生命周期。 | ✅ 已验证 |
 | **[jev-router](awesome-skills/introductions/zh/jev-router.md)** | Jev Model Router 运维技能：Docker Compose 部署、Provider/模型配置、托管凭证管理与自动/显式路由验证。 | ✅ 已验证 |
 | **[openclaw-config-guard](awesome-skills/introductions/zh/openclaw-config-guard.md)** | 一个以安全为优先的配置维护技能，用于对 OpenClaw 配置进行审计与修复，并提供确定性校验、备份、回滚和变更报告能力。 | ✅ 已验证 |
+| **[ego-browser](awesome-skills/introductions/zh/ego-browser.md)** | 让任意 Agent 驱动 ego(lite) Chromium 浏览器：复用已登录会话、获取语义快照、填写表单，并在隔离 Space 中执行多步网页任务。 | ✅ 已验证 |
 
 ### 效率工具
 

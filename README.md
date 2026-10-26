@@ -51,6 +51,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[Obsidian](agent-ready/en/obsidian-cli.md)** | Knowledge management app with an official CLI (v1.12+) supporting semantic search, graph queries, and vault management — up to 70,000x fewer tokens than traditional MCP approaches. | 👑 Certified |
 | **[OfficeCLI](agent-ready/en/officecli.md)** | The world's first Office suite purpose-built for AI agents — create, read, edit, and render Word, Excel, and PowerPoint documents with a single command. | 👑 Certified |
 | **[OpenCLI](agent-ready/en/opencli.md)** | CLI tool library that turns websites and apps into deterministic interfaces with 87+ adapters, direct browser control, and zero LLM runtime cost. | 👑 Certified |
+| **[ego-browser](agent-ready/en/ego-browser.md)** | Browser automation skill for ego(lite), a Chromium browser for humans and AI agents — agents reuse logged-in sessions and run web tasks in isolated Spaces. | 👑 Certified |
 
 ## 🎯 SKILL List
 
@@ -94,6 +95,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[zhub-management](awesome-skills/introductions/en/zhub-management.md)** | Manage Zerone Hub resources (Agent, Skill, Tool, MCP, Provider+Model) via the `zhub` CLI, with full CRUD and deployment lifecycle. | ✅ Verified |
 | **[jev-router](awesome-skills/introductions/en/jev-router.md)** | Operational skill for Jev Model Router: Docker Compose deployment, provider/model configuration, managed credentials, and automatic or explicit routing verification. | ✅ Verified |
 | **[openclaw-config-guard](awesome-skills/introductions/en/openclaw-config-guard.md)** | A safety-first maintenance skill for auditing and repairing OpenClaw configuration with deterministic validation, backups, rollback, and change reporting. | ✅ Verified |
+| **[ego-browser](awesome-skills/introductions/en/ego-browser.md)** | Drive the ego(lite) Chromium browser from any agent: reuse logged-in sessions, take semantic snapshots, fill forms, and run multi-step web tasks in isolated Spaces. | ✅ Verified |
 
 ### Productivity Tools
 
