@@ -67,6 +67,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[content-research-writer](awesome-skills/introductions/zh/content-research-writer.md)** | 内容写作协作技能，帮助调研、构建大纲、撰写草稿并优化内容，支持引用管理，同时保持你独特的写作风格。 | ✅ 已验证 |
 | **[deep-research](awesome-skills/introductions/zh/deep-research.md)** | 自主多步骤深度研究技能，利用 Gemini Deep Research Agent 进行市场分析、文献综述、尽职调查等，生成带引用的详细报告。 | ✅ 已验证 |
 | **[humanizer](awesome-skills/introductions/zh/humanizer.md)** | 识别并消除文本中的 AI 写作痕迹，使文字听起来更自然、更具人情味。 | ✅ 已验证 |
+| **[meeting-minutes](awesome-skills/introductions/zh/meeting-minutes.md)** | AWS Kiro 官方示例技能：使用 mlx-whisper 将会议录音（音/视频）转录为结构化中文会议纪要，可选生成工作日报。 | 🔍 待验证 |
 
 ### 设计与创意
 
