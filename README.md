@@ -47,6 +47,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | :--- | :--- | :--- |
 | **[skill-market](agent-ready/en/skill-market.md)** | Automated discovery and installation of specialized agent skills from the Zerone Skill Market. | 👑 Certified |
 | **[zhub-management](agent-ready/en/zhub-management.md)** | Manage Zerone Hub resources (Agent, Skill, Tool, MCP, Provider+Model) via the `zhub` CLI, with full CRUD and deployment lifecycle. | 👑 Certified |
+| **[jev-router](agent-ready/en/jev-router.md)** | Deploy, configure, and inspect Jev Model Router via the `jev-router` CLI and Docker Compose — covering providers, model cards, routing preferences, and connection tests. | 👑 Certified |
 | **[Obsidian](agent-ready/en/obsidian-cli.md)** | Knowledge management app with an official CLI (v1.12+) supporting semantic search, graph queries, and vault management — up to 70,000x fewer tokens than traditional MCP approaches. | 👑 Certified |
 | **[OfficeCLI](agent-ready/en/officecli.md)** | The world's first Office suite purpose-built for AI agents — create, read, edit, and render Word, Excel, and PowerPoint documents with a single command. | 👑 Certified |
 | **[OpenCLI](agent-ready/en/opencli.md)** | CLI tool library that turns websites and apps into deterministic interfaces with 87+ adapters, direct browser control, and zero LLM runtime cost. | 👑 Certified |
@@ -91,6 +92,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | :--- | :--- | :--- |
 | **[skill-market](awesome-skills/introductions/en/skill-market.md)** | Automated discovery and installation of specialized agent skills from the Zerone Skill Market. | ✅ Verified |
 | **[zhub-management](awesome-skills/introductions/en/zhub-management.md)** | Manage Zerone Hub resources (Agent, Skill, Tool, MCP, Provider+Model) via the `zhub` CLI, with full CRUD and deployment lifecycle. | ✅ Verified |
+| **[jev-router](awesome-skills/introductions/en/jev-router.md)** | Operational skill for Jev Model Router: Docker Compose deployment, provider/model configuration, managed credentials, and automatic or explicit routing verification. | ✅ Verified |
 | **[openclaw-config-guard](awesome-skills/introductions/en/openclaw-config-guard.md)** | A safety-first maintenance skill for auditing and repairing OpenClaw configuration with deterministic validation, backups, rollback, and change reporting. | ✅ Verified |
 
 ### Productivity Tools
