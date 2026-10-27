@@ -67,6 +67,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[content-research-writer](awesome-skills/introductions/en/content-research-writer.md)** | A collaborative writing partner that helps research, outline, draft, and refine content with proper citations while preserving your voice. | ✅ Verified |
 | **[deep-research](awesome-skills/introductions/en/deep-research.md)** | Autonomous multi-step deep research skill powered by Gemini Deep Research Agent for market analysis, literature reviews, due diligence, and more — producing detailed, cited reports. | ✅ Verified |
 | **[humanizer](awesome-skills/introductions/en/humanizer.md)** | Remove signs of AI-generated writing from text to make it sound more natural and human-written. | ✅ Verified |
+| **[meeting-minutes](awesome-skills/introductions/en/meeting-minutes.md)** | AWS Kiro sample skill that transcribes meeting recordings (audio/video) with mlx-whisper into structured Chinese meeting minutes, with optional work daily reports. | 🔍 Pending Verification |
 
 ### Design & Creativity
 
