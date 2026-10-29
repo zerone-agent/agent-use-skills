@@ -28,7 +28,14 @@
 ## 安装与支持
 xenho-cover 支持以下 AI 编辑器和平台：
 - [Claude Code](../../claudecode/xenho-cover/INSTALL-zh.md)
+- [Cursor](../../cursor/xenho-cover/INSTALL-zh.md)
 - [Codex](../../codex/xenho-cover/INSTALL-zh.md)
+- [OpenCode](../../opencode/xenho-cover/INSTALL-zh.md)
+- [OpenClaw](../../openclaw/xenho-cover/INSTALL-zh.md)
+- [Zerone](../../zerone/xenho-cover/INSTALL-zh.md)
+- [Qoder](../../qoder/xenho-cover/INSTALL-zh.md)
+
+Prompt 模式在任何可加载 SKILL.md 的 Agent 上可用；Direct 模式需本机 Codex CLI（已登录）或 OpenAI 兼容图像接口——属机器级依赖，与宿主平台无关。
 
 ---
 了解更多信息，请访问：[GitHub - PPory/xenho-cover](https://github.com/PPory/xenho-cover)

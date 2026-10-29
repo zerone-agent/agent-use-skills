@@ -28,7 +28,14 @@
 ## Installation & Support
 xenho-cover supports the following AI editors and platforms:
 - [Claude Code](../../claudecode/xenho-cover/INSTALL-en.md)
+- [Cursor](../../cursor/xenho-cover/INSTALL-en.md)
 - [Codex](../../codex/xenho-cover/INSTALL-en.md)
+- [OpenCode](../../opencode/xenho-cover/INSTALL-en.md)
+- [OpenClaw](../../openclaw/xenho-cover/INSTALL-en.md)
+- [Zerone](../../zerone/xenho-cover/INSTALL-en.md)
+- [Qoder](../../qoder/xenho-cover/INSTALL-en.md)
+
+Prompt mode works on any agent that loads SKILL.md; Direct mode needs the local Codex CLI (signed in) or an OpenAI-compatible image endpoint — a machine-level dependency, independent of the host platform.
 
 ---
 For more information, visit: [GitHub - PPory/xenho-cover](https://github.com/PPory/xenho-cover)
