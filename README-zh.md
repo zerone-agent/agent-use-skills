@@ -77,6 +77,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[baoyu-skills](awesome-skills/introductions/zh/baoyu-skills.md)** | 宝玉分享的效率提升技能集，涵盖内容创作、图像生成、社交媒体发布和文档处理等多个维度。 | ✅ 已验证 |
 | **[slidev](awesome-skills/introductions/zh/slidev.md)** | 基于 Vite、Vue 和 Markdown 构建的面向开发者的幻灯片制作和演示工具。 | ✅ 已验证 |
 | **[xenho-cover](awesome-skills/introductions/zh/xenho-cover.md)** | 把文章、小红书笔记、公众号推文或主题变成封面图：29 个风格原子分 6 大气质家族，Prompt 模式产出完整图像提示词，Direct 模式经本机 Codex CLI 直接出图、无需 key。 | 🔍 待验证 |
+| **[oil-visual](awesome-skills/introductions/zh/oil-visual.md)** | 统一漫画墨线视觉语言的解释图与透明插画素材——Mode A 产出带图内标签的米白成品解释图，Mode B 经抠像脚本交付透明 PNG 素材。 | 🔍 待验证 |
 
 ### 开发与测试
 

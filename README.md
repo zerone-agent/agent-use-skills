@@ -77,6 +77,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[baoyu-skills](awesome-skills/introductions/en/baoyu-skills.md)** | A practical skill collection for AI coding agents covering content creation, image generation, social media publishing, and document processing. | ✅ Verified |
 | **[slidev](awesome-skills/introductions/en/slidev.md)** | A presentation slides maker tailored for developers, built on Vite, Vue, and Markdown. | ✅ Verified |
 | **[xenho-cover](awesome-skills/introductions/en/xenho-cover.md)** | Turn articles, Xiaohongshu notes, WeChat posts, or topics into cover images with 29 style atoms in 6 temperament families — Prompt mode outputs complete GPT Image prompts; Direct mode generates images via the local Codex CLI, no key needed. | 🔍 Pending Verification |
+| **[oil-visual](awesome-skills/introductions/en/oil-visual.md)** | Explanatory images and transparent illustration assets in one manga-ink visual language — Mode A finished off-white explainers with in-bitmap labels, Mode B chroma-key assets cleaned to transparent PNG. | 🔍 Pending Verification |
 
 ### Dev & Testing
 
