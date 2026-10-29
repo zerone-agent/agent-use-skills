@@ -76,6 +76,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[ui-ux-pro-max-skill](awesome-skills/introductions/en/ui-ux-pro-max-skill.md)** | AI-powered design intelligence with 67 UI styles, 96 color palettes, and 100 industry-specific reasoning rules. | ✅ Verified |
 | **[baoyu-skills](awesome-skills/introductions/en/baoyu-skills.md)** | A practical skill collection for AI coding agents covering content creation, image generation, social media publishing, and document processing. | ✅ Verified |
 | **[slidev](awesome-skills/introductions/en/slidev.md)** | A presentation slides maker tailored for developers, built on Vite, Vue, and Markdown. | ✅ Verified |
+| **[xenho-cover](awesome-skills/introductions/en/xenho-cover.md)** | Turn articles, Xiaohongshu notes, WeChat posts, or topics into cover images with 29 style atoms in 6 temperament families — Prompt mode outputs complete GPT Image prompts; Direct mode generates images via the local Codex CLI, no key needed. | 🔍 Pending Verification |
 
 ### Dev & Testing
 
