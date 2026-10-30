@@ -4,7 +4,7 @@
 
 ## Tags
 
-🛠️ Productivity Tools | 🔍 Pending Verification
+🛠️ Productivity Tools | ✅ Verified
 
 ## Core Philosophy
 - **Agent-native design**: Every command is tested with real agents, featuring concise parameters, smart defaults, and structured output to maximize call success rates; the skills work with popular AI tools out of the box.
@@ -34,7 +34,7 @@ Feishu CLI supports the following AI editors and platforms:
 - [Zerone](../../zerone/feishu-cli/INSTALL-en.md)
 - [Qoder](../../qoder/feishu-cli/INSTALL-en.md)
 
-Skills are installed through the official `npx skills add` channel, which detects installed agent CLIs; `lark-cli` is a machine-level dependency independent of the host platform. Non-listed platforms are pending verification.
+Skills are installed through the official `npx skills add` channel, which detects installed agent CLIs; `lark-cli` is a machine-level dependency independent of the host platform. All seven listed platforms are verified.
 
 ---
 For more information, visit: [GitHub - larksuite/cli](https://github.com/larksuite/cli)

@@ -4,7 +4,7 @@
 
 ## 标签
 
-🛠️ 效率工具 | 🔍 待验证
+🛠️ 效率工具 | ✅ 已验证
 
 ## 核心理念
 - **Agent 原生设计**：每个命令都用真实 Agent 实测，参数精简、默认值智能、输出结构化，最大化调用成功率；技能开箱兼容主流 AI 工具。
@@ -34,7 +34,7 @@ Feishu CLI 支持以下 AI 编辑器和平台：
 - [Zerone](../../zerone/feishu-cli/INSTALL-zh.md)
 - [Qoder](../../qoder/feishu-cli/INSTALL-zh.md)
 
-技能经官方 `npx skills add` 通道安装（自动探测已安装的 Agent CLI）；`lark-cli` 属机器级依赖，与宿主平台无关。未列出平台为待验证状态。
+技能经官方 `npx skills add` 通道安装（自动探测已安装的 Agent CLI）；`lark-cli` 属机器级依赖，与宿主平台无关。上述七个平台均已通过验证。
 
 ---
 了解更多信息，请访问：[GitHub - larksuite/cli](https://github.com/larksuite/cli)
