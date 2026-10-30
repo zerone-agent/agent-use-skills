@@ -108,6 +108,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[skill-creator](awesome-skills/introductions/zh/skill-creator.md)** | Anthropic 官方技能创建与迭代优化工具，实现从构思到部署的完整工作流。 | ✅ 已验证 |
 | **[anti-distill](awesome-skills/introductions/zh/anti-distill.md)** | 专为保护员工核心知识资产设计的工具，"清洗"被迫写出的工作 Skill，核心经验留给自己。 | 🔍 待验证 |
 | **[colleague-skill](awesome-skills/introductions/zh/colleague-skill.md)** | 将同事"蒸馏"为 AI Skill，通过自动采集飞书/钉钉数据生成数字化同事。 | 🔍 待验证 |
+| **[feishu-cli](awesome-skills/introductions/zh/feishu-cli.md)** | 飞书官方 CLI（lark-cli）配套 26 个 AI Agent Skills 与 200+ 命令、覆盖 18 个业务域——Bot/User 双身份、钥匙串凭证存储、三层命令体系。 | 🔍 待验证 |
 
 ## 🛠️ 技能开发与贡献
 

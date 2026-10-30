@@ -108,6 +108,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[skill-creator](awesome-skills/introductions/en/skill-creator.md)** | Anthropic's official skill creation and iterative optimization tool for creating, testing, evaluating, and improving AI programming skills. | ✅ Verified |
 | **[anti-distill](awesome-skills/introductions/en/anti-distill.md)** | A tool to clean your forced-to-write employee AI Skills, keeping core knowledge assets strictly to yourself. | 🔍 Pending Verification |
 | **[colleague-skill](awesome-skills/introductions/en/colleague-skill.md)** | A tool that distills a colleague into an AI Skill by automatically collecting Feishu/DingTalk data. | 🔍 Pending Verification |
+| **[feishu-cli](awesome-skills/introductions/en/feishu-cli.md)** | Official Feishu/Lark CLI (lark-cli) with 26 AI Agent Skills and 200+ commands across 18 business domains — dual Bot/User identity, OS-keychain credentials, three-layer command system. | 🔍 Pending Verification |
 
 ## 🛠️ Skill Development & Contribution
 
