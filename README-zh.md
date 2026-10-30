@@ -52,6 +52,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[OfficeCLI](agent-ready/zh/officecli.md)** | 全球首个专为 AI 智能体设计的 Office 套件，一条命令即可创建、读取、编辑和渲染 Word、Excel、PowerPoint 文档。 | 👑 已认证 |
 | **[OpenCLI](agent-ready/zh/opencli.md)** | CLI 工具库，将网站和应用转化为确定性接口，包含 87+ 适配器、浏览器直控能力，运行时零 LLM 成本。 | 👑 已认证 |
 | **[ego-browser](agent-ready/zh/ego-browser.md)** | ego(lite)（为人与 AI Agent 共同设计的 Chromium 浏览器）的浏览器自动化技能——Agent 复用已登录会话，在隔离 Space 中执行网页任务。 | 👑 已认证 |
+| **[feishu-cli](agent-ready/zh/feishu-cli.md)** | 飞书官方 CLI 配套 26 个 AI Agent Skills、200+ 命令覆盖 18 个业务域——Bot/User 双身份、钥匙串凭证存储、经真实 Agent 实测的三层命令体系。 | 👑 已认证 |
 
 ## 🎯 SKILL 列表
 
@@ -108,6 +109,7 @@ AgentUse Skills 支持以下 AI Agent 框架：
 | **[skill-creator](awesome-skills/introductions/zh/skill-creator.md)** | Anthropic 官方技能创建与迭代优化工具，实现从构思到部署的完整工作流。 | ✅ 已验证 |
 | **[anti-distill](awesome-skills/introductions/zh/anti-distill.md)** | 专为保护员工核心知识资产设计的工具，"清洗"被迫写出的工作 Skill，核心经验留给自己。 | 🔍 待验证 |
 | **[colleague-skill](awesome-skills/introductions/zh/colleague-skill.md)** | 将同事"蒸馏"为 AI Skill，通过自动采集飞书/钉钉数据生成数字化同事。 | 🔍 待验证 |
+| **[feishu-cli](awesome-skills/introductions/zh/feishu-cli.md)** | 飞书官方 CLI（lark-cli）配套 26 个 AI Agent Skills 与 200+ 命令、覆盖 18 个业务域——Bot/User 双身份、钥匙串凭证存储、三层命令体系。 | ✅ 已验证 |
 
 ## 🛠️ 技能开发与贡献
 

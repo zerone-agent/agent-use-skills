@@ -52,6 +52,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[OfficeCLI](agent-ready/en/officecli.md)** | The world's first Office suite purpose-built for AI agents — create, read, edit, and render Word, Excel, and PowerPoint documents with a single command. | 👑 Certified |
 | **[OpenCLI](agent-ready/en/opencli.md)** | CLI tool library that turns websites and apps into deterministic interfaces with 87+ adapters, direct browser control, and zero LLM runtime cost. | 👑 Certified |
 | **[ego-browser](agent-ready/en/ego-browser.md)** | Browser automation skill for ego(lite), a Chromium browser for humans and AI agents — agents reuse logged-in sessions and run web tasks in isolated Spaces. | 👑 Certified |
+| **[feishu-cli](agent-ready/en/feishu-cli.md)** | Official Feishu/Lark CLI with 26 AI Agent Skills and 200+ commands across 18 business domains — dual Bot/User identity, OS-keychain credentials, and a three-layer command system tested with real agents. | 👑 Certified |
 
 ## 🎯 SKILL List
 
@@ -108,6 +109,7 @@ Each framework provides its own skill loading mechanism. Please refer to the ins
 | **[skill-creator](awesome-skills/introductions/en/skill-creator.md)** | Anthropic's official skill creation and iterative optimization tool for creating, testing, evaluating, and improving AI programming skills. | ✅ Verified |
 | **[anti-distill](awesome-skills/introductions/en/anti-distill.md)** | A tool to clean your forced-to-write employee AI Skills, keeping core knowledge assets strictly to yourself. | 🔍 Pending Verification |
 | **[colleague-skill](awesome-skills/introductions/en/colleague-skill.md)** | A tool that distills a colleague into an AI Skill by automatically collecting Feishu/DingTalk data. | 🔍 Pending Verification |
+| **[feishu-cli](awesome-skills/introductions/en/feishu-cli.md)** | Official Feishu/Lark CLI (lark-cli) with 26 AI Agent Skills and 200+ commands across 18 business domains — dual Bot/User identity, OS-keychain credentials, three-layer command system. | ✅ Verified |
 
 ## 🛠️ Skill Development & Contribution
 
